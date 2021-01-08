@@ -243,4 +243,4 @@ CHIP DMux8Way {
     DMux4Way(in=y, sel=sel[0..1], a=e, b=f, c=g, d=h);
 }
 ```
-![DMUX8way](https://user-images.githubusercontent.com/36965820/104040489-aa00cc00-5212-11eb-9e92-b8df42962e52.jpg)
+![DMUX8way](https://user-images.githubusercontent.com/36965820/104041509-1e883a80-5214-11eb-975f-712683db0d21.jpg)
