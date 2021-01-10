@@ -15,7 +15,7 @@ CHIP Bit {
     DFF(in=k, out=out, out=gd);
 }
 ```
-![bit](https://user-images.githubusercontent.com/36965820/104131341-bc187100-53b0-11eb-934a-bff187554a10.jpg)
+![bit](https://user-images.githubusercontent.com/36965820/104131431-3ba64000-53b1-11eb-9e87-2d7290f9168a.jpg)
 
 > **16-bit register**
 ```
