@@ -1,4 +1,4 @@
->> **PC**
+> **PC**
 ```
 /**
  * A 16-bit counter with load and reset control bits.
